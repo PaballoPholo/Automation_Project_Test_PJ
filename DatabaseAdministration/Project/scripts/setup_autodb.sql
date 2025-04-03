@@ -10,7 +10,7 @@ END
 GO
 
 -- Switch to the AutoDBFirstName database
-AutoTest_PJ_03April;
+USE AutoTest_PJ_03April;
 GO
 
 -- Create the stored procedure
